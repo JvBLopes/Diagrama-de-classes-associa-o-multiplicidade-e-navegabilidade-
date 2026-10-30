@@ -14,9 +14,8 @@ Explicação dos conceitos de associação, papéis, multiplicidade e navegabili
 ## Trabalho escrito
 
 - [PDF](docs/Trabalho_Tema_6_Joao_e_Loreanne.pdf)
-- [Word editável](docs/Trabalho_Tema_6_Joao_e_Loreanne.docx)
 
-Após editar o Word, clique com o botão direito sobre o sumário e escolha Atualizar campo → Atualizar o índice inteiro antes de exportar novamente para PDF.
+
 
 ## Diagramas
 
@@ -34,6 +33,3 @@ Os arquivos-fonte são editáveis no draw.io. As imagens foram exportadas pelo d
 
 As multiplicidades ficam junto da classe quantificada e são lidas nos dois sentidos. Conforme a convenção didática dos slides, ligações sem seta de navegabilidade permitem acesso bidirecional. Setas abertas indicam o sentido de acesso representado. O losango preenchido junto de Pedido indica composição.
 
-## Entrega
-
-Publicar este conteúdo em um repositório público do GitHub, mantendo as pastas docs e diagramas, e enviar o link no fórum do Studeo. Confirmar com o professor a aceitação do modelo didático usado. A apresentação oral é uma etapa separada, com duração máxima de 10 minutos e participação dos dois integrantes.
